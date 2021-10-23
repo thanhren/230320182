@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "https://docs.google.com/forms/d/e/1FAIpQLSf8mjH022jvcuKeOV0U9TBLgt6zZADeVeaGlfkzbWsWSoFPHA/viewform";
           },
         });
       }
