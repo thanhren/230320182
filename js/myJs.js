@@ -38,7 +38,7 @@ $(document).ready(function () {
       imageUrl: "img/cuteCat.jpg",
       imageWidth: 300,
       imageHeight: 300,
-      background: '#fff url("img/img-b.jpg")',
+      background: '#fff url("img/iput-bg.jpg")',
       imageAlt: "Custom image",
     }).then(function () {
       $(".content").show(200);
@@ -115,7 +115,7 @@ $(document).ready(function () {
       width: 900,
       padding: "3em",
       html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
-      background: '#fff url("img/iput-bg.jpg")',
+      background: '#fff url("img/img-b.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
                     url("img/giphy2.gif")
