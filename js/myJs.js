@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "Hello cảm ơn vì đã quan tâm đến confession của mình!",
-  text2: "Bạn cũng đang tìm NY hả!",
-  text3: "Vậy thì sao không thử tìm hiểu nhau ^^",
-  text4: "Thử tìm hiểu nhau nhé!",
+  text1: "Cảm ơn vì đã quan tâm đến confession của mình!",
+  text2: "Đừng bận tâm nhiều, nếu không thành đôi thì ta có thêm một người bạn.",
+  text3: "Vậy thì sao không thử tìm hiểu nhau nhỉ!",
+  text4: "Mình tìm hiểu nhau nhé!",
   text5: "Xin lỗi, không",
-  text6: "Oke tới luôn ^^",
-  text7: "Chỗ này chả có gì đâu!",
-  text8: "Nhấn vào đây nè!",
+  text6: "OMO! ngại gì vết bẩn",
+  text7: "Chỗ này chả có gì đâu.",
+  text8: "Nhấn vào đây nè.",
   text9: "Vì cậu đẹp try vlllll",
-  text10: "Tuy không biết sẽ thế nào, nhưng mình cũng muốn là một mối quan hệ lâu dài",
+  text10: "Rất vui vì bạn đã đến bước này!",
   text11:
-    "Đừng bận tâm nhiều, nếu không hợp thì xem như mình chưa có duyên với nhau. Thoải mái nhé!",
+    "Đừng bận tâm nhiều, nếu không hợp thì xem như mình có thêm 1 người bạn. Thoải mái nhé!",
   text12: "Nhấn vào đây để mình biết bạn là ai nhé.",
 };
 
