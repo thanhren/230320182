@@ -27,9 +27,10 @@
   z-index: 0;
   background-repeat: repeat;
   background-video: url(../img/back2.mp4);
+  background-image: url(../img/puung2.jpg);
   background-size: cover;
-  background-position: 50%;
-  -webkit-filter: blur(4px);
+  background-position: 80%;
+  -webkit-filter: blur(1px);
 }
 .swal2-title, .swal2-content{
   color: azure !important;
