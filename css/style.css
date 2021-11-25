@@ -40,25 +40,25 @@
 }
 
 header h2 {
-  font-family: 'Pacifico';
+  font-family: 'Arial';
   font-size: 80px;
   text-align: center;
 	margin-bottom: 30px;
 }
 header h4 {
-  font-family: 'Pacifico';
+  font-family: 'Arial';
   text-align: center;
 }
 
 @media only screen and (max-width: 500px) {
   header h2 {
-    font-family: 'Pacifico';
+    font-family: 'Arial';
     font-size: 45px;
     text-align: center;
     margin-bottom: 30px;
   }
   header h4 {
-    font-family: 'Pacifico';
+    font-family: 'Arial';
     text-align: center;
     padding: 15px;
   }
