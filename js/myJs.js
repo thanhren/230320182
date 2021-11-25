@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "Cảm ơn vì đã quan tâm đến confession của mình!",
-  text2: "Đừng bận tâm nhiều, nếu không thành đôi thì ta có thêm một người bạn.",
-  text3: "Vậy thì sao không thử tìm hiểu nhau nhỉ!",
-  text4: "Mình tìm hiểu nhau nhé!",
-  text5: "Xin lỗi, không",
-  text6: "OMO! ngại gì vết bẩn",
-  text7: "Chỗ này chả có gì đâu.",
+  text1: "Happy Birthday To You",
+  text2: "Chúc mừng giáng sinh vui vẻ :))"
+  text3: "Chúc Thùy Hằng có một ngày sinh nhật vui vẻ",
+  text4: "Và nhiều ngày sau cũng như thế!",
+  text5: "Xin lỗi, không cần",
+  text6: "Cảm ơn rất nhiều ^^!",
+  text7: "Click vào phía dưới xem thử có gì!",
   text8: "Nhấn vào đây nè.",
   text9: "Vì cậu đẹp try vlllll",
-  text10: "Rất vui vì bạn đã đến bước này!",
+  text10: "Happy birthday to you",
   text11:
-    "Đừng bận tâm nhiều, nếu không hợp thì xem như mình có thêm 1 người bạn. Thoải mái nhé!",
-  text12: "Nhấn vào đây để mình biết bạn là ai nhé.",
+    "Chúc Hằng một tuổi mới đầy những điều may mắn nhé! ",
+  text12: "Nghe một bài nhạc tận hưởng ngày sinh nhật.",
 };
 
 $(document).ready(function () {
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://docs.google.com/forms/d/12d8p9ckl-BJ1i0IuKnLXBQmhNZaOb-W20zEVngXO2uk";
+            window.location = "https://www.youtube.com/watch?v=UtF6Jej8yb4";
           },
         });
       }
