@@ -1,6 +1,6 @@
 const textConfig = {
   text1: "Happy Birthday To You",
-  text2: "Chúc mừng giáng sinh vui vẻ :))"
+  text2: "Chúc mừng giáng sinh vui vẻ :))",
   text3: "Chúc Thùy Hằng có một ngày sinh nhật vui vẻ",
   text4: "Và nhiều ngày sau cũng như thế!",
   text5: "Xin lỗi, không cần",
